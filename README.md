@@ -36,3 +36,10 @@
 + Building AI Projects
 + Developing Unity Football Game
 + Growing as Full Stack Developer
+```
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IammYann/IammYann/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
