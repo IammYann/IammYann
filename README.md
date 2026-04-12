@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Yann</h1>
-<h3 align="center">🚀 AI Enthusiast | 🎮 Unity Game Developer | 💻 Full Stack Learner</h3>
+<h3 align="center">🚀 AI Enthusiast | 💻 Full Stack Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Future+AI+Engineer;Building+Cool+Projects;Unity+Game+Dev;Always+Learning&center=true&width=500&height=50">
@@ -9,8 +9,7 @@
 
 ## 🧠 About Me
 - 🎓 BIM Student (7th Semester)
-- 🤖 Interested in AI, Machine Learning & Smart Systems  
-- 🎮 Working on a **block-style football game in Unity**  
+- 🤖 Interested in AI, Machine Learning & Smart Systems    
 - 📈 Learning: Full Stack + Deep Learning    
 
 ---
