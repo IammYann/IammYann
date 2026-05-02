@@ -32,7 +32,6 @@
 ## 🎯 Current Focus
 ```diff
 + Building AI Projects
-+ Currently Developing Unity Football Game
 + Growing as Full Stack Developer
 ```
 
