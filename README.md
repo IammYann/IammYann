@@ -33,6 +33,7 @@
 ```diff
 + Building AI Projects
 + Growing as Full Stack Developer
++ Trying my Best to be Consistent
 ```
 
 ## 🐍 Contribution Snake
